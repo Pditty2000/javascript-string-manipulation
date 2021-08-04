@@ -17,7 +17,7 @@ Options:
 Example:
 
     cat in.txt | crlf-convert LF > out.txt
-    `;
+`;
 
 
 module.exports = {
